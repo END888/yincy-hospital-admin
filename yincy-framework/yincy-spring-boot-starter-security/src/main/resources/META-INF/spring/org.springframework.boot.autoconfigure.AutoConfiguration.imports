@@ -1,0 +1,2 @@
+com.yincy.boot.framework.security.config.YincySecurityAutoConfiguration
+com.yincy.boot.framework.security.config.YincyWebSecurityConfigurerAdapter

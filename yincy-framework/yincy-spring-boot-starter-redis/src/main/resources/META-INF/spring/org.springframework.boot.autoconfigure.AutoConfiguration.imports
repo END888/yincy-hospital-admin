@@ -1,0 +1,2 @@
+com.yincy.boot.framework.redis.config.YudaoRedisAutoConfiguration
+com.yincy.boot.framework.redis.config.YudaoCacheAutoConfiguration
